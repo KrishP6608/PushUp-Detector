@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Kivy_i_hate_you/.idea/Kivy_i_hate_you.iml" filepath="$PROJECT_DIR$/../Kivy_i_hate_you/.idea/Kivy_i_hate_you.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pushup-Detectors.iml" filepath="$PROJECT_DIR$/.idea/Pushup-Detectors.iml" />
+    </modules>
+  </component>
+</project>
